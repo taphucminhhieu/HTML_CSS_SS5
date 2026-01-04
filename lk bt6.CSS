@@ -1,0 +1,16 @@
+.title{
+    color: #1e90ff;
+    text-align: center;
+
+}
+.background{
+    background-color: #e6f7ff;
+    text-align: center;
+}
+.unback{
+    text-align: center;
+}
+.background :hover {
+    box-shadow: 0 9px 15px rgb(248, 252, 252);
+    background-color:#aab6bb;
+}

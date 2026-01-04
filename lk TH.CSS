@@ -1,0 +1,26 @@
+.head{
+    text-align: center;
+    background-color: #0284c7;
+    color:#ffffff
+}
+.bodybackground{
+    font-size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #4b9fd6;
+}
+h2{
+    color:#0369a1
+}
+li:hover{
+    color:#0c5d85;
+    transition:0.2;
+    box-shadow: none;
+    box-shadow: 0 4px 15px rgba(0, 123, 255 , 0,3);
+    background-color:#e0e7ec;
+}
+.foot{
+    text-align: center;
+    background-color: #0284c7;
+    color:#ffffff
+}
